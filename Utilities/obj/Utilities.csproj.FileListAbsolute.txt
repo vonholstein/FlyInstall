@@ -1,0 +1,7 @@
+F:\AutoInstallProject\FlyInstall\Utilities\obj\Debug\ResolveAssemblyReference.cache
+F:\AutoInstallProject\FlyInstall\Utilities\obj\Debug\Utilities.Properties.Resources.resources
+F:\AutoInstallProject\FlyInstall\Utilities\obj\Debug\Utilities.csproj.GenerateResource.Cache
+F:\AutoInstallProject\FlyInstall\Utilities\bin\Debug\Utilities.dll
+F:\AutoInstallProject\FlyInstall\Utilities\bin\Debug\Utilities.pdb
+F:\AutoInstallProject\FlyInstall\Utilities\obj\Debug\Utilities.dll
+F:\AutoInstallProject\FlyInstall\Utilities\obj\Debug\Utilities.pdb

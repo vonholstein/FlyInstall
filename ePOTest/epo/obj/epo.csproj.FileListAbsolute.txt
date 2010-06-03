@@ -1,0 +1,34 @@
+C:\Documents and Settings\admin.EPOMFE\My Documents\Visual Studio 2005\Projects\epo\epo\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\admin.EPOMFE\My Documents\Visual Studio 2005\Projects\epo\epo\obj\Debug\epo.Properties.Resources.resources
+C:\Documents and Settings\admin.EPOMFE\My Documents\Visual Studio 2005\Projects\epo\epo\obj\Debug\epo.csproj.GenerateResource.Cache
+C:\Documents and Settings\admin.EPOMFE\My Documents\Visual Studio 2005\Projects\epo\epo\bin\Debug\epo.dll
+C:\Documents and Settings\admin.EPOMFE\My Documents\Visual Studio 2005\Projects\epo\epo\bin\Debug\epo.pdb
+C:\Documents and Settings\admin.EPOMFE\My Documents\Visual Studio 2005\Projects\epo\epo\bin\Debug\nunit.framework.dll
+C:\Documents and Settings\admin.EPOMFE\My Documents\Visual Studio 2005\Projects\epo\epo\bin\Debug\nunit.mocks.dll
+C:\Documents and Settings\admin.EPOMFE\My Documents\Visual Studio 2005\Projects\epo\epo\bin\Debug\nunit.framework.xml
+C:\Documents and Settings\admin.EPOMFE\My Documents\Visual Studio 2005\Projects\epo\epo\obj\Debug\epo.dll
+C:\Documents and Settings\admin.EPOMFE\My Documents\Visual Studio 2005\Projects\epo\epo\obj\Debug\epo.pdb
+F:\AutoInstallProject\FlyInstall\ePOTest\epo\bin\Debug\epo.dll
+F:\AutoInstallProject\FlyInstall\ePOTest\epo\bin\Debug\epo.pdb
+F:\AutoInstallProject\FlyInstall\ePOTest\epo\bin\Debug\pnunit.framework.dll
+F:\AutoInstallProject\FlyInstall\ePOTest\epo\bin\Debug\nunit.core.dll
+F:\AutoInstallProject\FlyInstall\ePOTest\epo\bin\Debug\pnunit.framework.pdb
+F:\AutoInstallProject\FlyInstall\ePOTest\epo\bin\Debug\nunit.framework.xml
+F:\AutoInstallProject\FlyInstall\ePOTest\epo\obj\Debug\ResolveAssemblyReference.cache
+F:\AutoInstallProject\FlyInstall\ePOTest\epo\obj\Debug\epo.Properties.Resources.resources
+F:\AutoInstallProject\FlyInstall\ePOTest\epo\obj\Debug\epo.csproj.GenerateResource.Cache
+F:\AutoInstallProject\FlyInstall\ePOTest\epo\obj\Debug\epo.dll
+F:\AutoInstallProject\FlyInstall\ePOTest\epo\obj\Debug\epo.pdb
+F:\AutoInstallProject\FlyInstall\ePOTest\epo\bin\Debug\nunit.framework.dll
+F:\AutoInstallProject\FlyInstall\ePOTest\epo\bin\Debug\nunit.mocks.dll
+F:\AutoInstallProject\FlyInstall\ePOTest\epo\bin\Debug\White.Core.dll
+F:\AutoInstallProject\FlyInstall\ePOTest\epo\bin\Debug\White.NUnit.dll
+F:\AutoInstallProject\FlyInstall\ePOTest\epo\bin\Debug\Bricks.RuntimeFramework.dll
+F:\AutoInstallProject\FlyInstall\ePOTest\epo\bin\Debug\Bricks.dll
+F:\AutoInstallProject\FlyInstall\ePOTest\epo\bin\Debug\Castle.DynamicProxy2.dll
+F:\AutoInstallProject\FlyInstall\ePOTest\epo\bin\Debug\log4net.dll
+F:\AutoInstallProject\FlyInstall\ePOTest\epo\bin\Debug\Castle.Core.dll
+F:\AutoInstallProject\FlyInstall\ePOTest\epo\bin\Debug\Xstream.Core.dll
+F:\AutoInstallProject\FlyInstall\ePOTest\epo\bin\Debug\White.Core.pdb
+F:\AutoInstallProject\FlyInstall\ePOTest\epo\bin\Debug\White.NUnit.pdb
+F:\AutoInstallProject\FlyInstall\ePOTest\epo\bin\Debug\Xstream.Core.pdb
