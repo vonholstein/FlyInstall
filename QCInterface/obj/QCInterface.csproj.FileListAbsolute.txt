@@ -1,0 +1,10 @@
+F:\AutoInstallProject\FlyInstall\QCInterface\obj\Debug\ResolveAssemblyReference.cache
+F:\AutoInstallProject\FlyInstall\QCInterface\obj\Debug\Interop.TDAPIOLELib.dll
+F:\AutoInstallProject\FlyInstall\QCInterface\obj\Debug\QCInterface.csproj.ResolveComReference.cache
+F:\AutoInstallProject\FlyInstall\QCInterface\bin\Debug\QCInterface.dll
+F:\AutoInstallProject\FlyInstall\QCInterface\bin\Debug\QCInterface.pdb
+F:\AutoInstallProject\FlyInstall\QCInterface\bin\Debug\nunit.core.dll
+F:\AutoInstallProject\FlyInstall\QCInterface\bin\Debug\nunit.framework.dll
+F:\AutoInstallProject\FlyInstall\QCInterface\bin\Debug\Interop.TDAPIOLELib.dll
+F:\AutoInstallProject\FlyInstall\QCInterface\obj\Debug\QCInterface.dll
+F:\AutoInstallProject\FlyInstall\QCInterface\obj\Debug\QCInterface.pdb
